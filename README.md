@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm EL Mehdi</h1>
 <h4>
 I’m a passionate and motivated developer with a Diploma in Digital Development (Web Full-Stack) and hands-on experience in building web and mobile applications. Through internships, hackathons, and personal projects, I’ve gained strong skills in frontend, backend, and databases.</h4>
-
+<br/>
 
 - 📫 How to reach me **contact@elmehdiboussoufi.me**
 
