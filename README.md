@@ -2,9 +2,9 @@
 
 
 
-<h1 align="center">Hi 👋, I'm EL Mehdi 💻 **Full-Stack Developer | Flutter & React Enthusiast | Open to Opportunities**</h1>
+<h1 align="center">Hi 👋, I'm EL Mehdi</h1>
 <h3 align="center">
-I’m a passionate and motivated developer with a **Diploma in Digital Development (Web Full-Stack)** and hands-on experience in building web and mobile applications. Through internships, hackathons, and personal projects, I’ve gained strong skills in **frontend, backend, and databases**.</h3>
+I’m a passionate and motivated developer with a Diploma in Digital Development (Web Full-Stack) and hands-on experience in building web and mobile applications. Through internships, hackathons, and personal projects, I’ve gained strong skills in frontend, backend, and databases.</h3>
 
 
 - 📫 How to reach me **contact@elmehdiboussoufi.me**
