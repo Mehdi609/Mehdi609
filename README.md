@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React
 
 
-<h1 align="center">Hi 👋, I'm ALI</h1>
+<h1 align="center">Hi 👋, I'm EL Mehdi</h1>
 <h3 align="center">A passionate developer from Morocco 🇲🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-404&label=Profile%20views&color=0e75b6&style=flat" alt="ali-404" /> </p>
@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ali-404.vercel.app/](https://ali-404.vercel.app/)
+- 📫 How to reach me **contact@elmehdiboussoufi.me**
 
-- 📫 How to reach me **abdellali.aitaddi@gmail.com**
-
-- 📄 Know about my experiences [https://ali-404.vercel.app/](https://ali-404.vercel.app/)
+- 📄 Know about my experiences [https://www.elmehdiboussoufi.me/](https://www.elmehdiboussoufi.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
