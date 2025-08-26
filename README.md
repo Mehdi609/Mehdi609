@@ -1,4 +1,4 @@
-👋 Hi there! I’m a passionate and motivated digital development student with a strong foundation in HTML, CSS, and JavaScript. I have hands-on experience with modern tools and frameworks like React and Node.js, gained through academic and personal projects.
+
 
 <!--
 **Mehdi609/Mehdi609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm EL Mehdi</h1>
-<h3 align="center">A passionate developer from Morocco 🇲🇦</h3>
+<h3 align="center">💻 **Full-Stack Developer | Flutter & React Enthusiast | Open to Opportunities**  
+
+I’m a passionate and motivated developer with a **Diploma in Digital Development (Web Full-Stack)** and hands-on experience in building web and mobile applications. Through internships, hackathons, and personal projects, I’ve gained strong skills in **frontend, backend, and databases**.  A passionate developer from Morocco 🇲🇦</h3>
 
 
 - 📫 How to reach me **contact@elmehdiboussoufi.me**
