@@ -1,18 +1,10 @@
 
 
-<!--
-**Mehdi609/Mehdi609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on mapty
-- 🌱 I’m currently learning React
 
 
-<h1 align="center">Hi 👋, I'm EL Mehdi</h1>
-<h3 align="center">💻 **Full-Stack Developer | Flutter & React Enthusiast | Open to Opportunities**  
-
-I’m a passionate and motivated developer with a **Diploma in Digital Development (Web Full-Stack)** and hands-on experience in building web and mobile applications. Through internships, hackathons, and personal projects, I’ve gained strong skills in **frontend, backend, and databases**.  A passionate developer from Morocco 🇲🇦</h3>
+<h1 align="center">Hi 👋, I'm EL Mehdi 💻 **Full-Stack Developer | Flutter & React Enthusiast | Open to Opportunities**</h1>
+<h3 align="center">
+I’m a passionate and motivated developer with a **Diploma in Digital Development (Web Full-Stack)** and hands-on experience in building web and mobile applications. Through internships, hackathons, and personal projects, I’ve gained strong skills in **frontend, backend, and databases**.</h3>
 
 
 - 📫 How to reach me **contact@elmehdiboussoufi.me**
