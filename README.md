@@ -10,7 +10,7 @@ I’m a passionate and motivated developer with a Diploma in Digital Development
 - 📫 How to reach me **contact@elmehdiboussoufi.me**
 
 - 📄 Know about my experiences [https://www.elmehdiboussoufi.me/](https://www.elmehdiboussoufi.me/)
-
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/el-mehdi-boussoufi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boussoufi" height="30" width="40" /></a>
